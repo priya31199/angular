@@ -1,0 +1,15 @@
+body.bk_img{
+    background-color: #ddd;
+   /* background-image:url(assets/img/login.jpg); */
+  }
+  .sign-wrapper{
+    background: #fff;
+    padding: 50px;
+  }
+  header.navbar.navbar-header.navbar-header-fixed {
+    float: none;
+}
+a.tx-13{
+  float: right;
+  padding-top: 10px;
+}
